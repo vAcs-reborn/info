@@ -22,6 +22,9 @@
     "developer": ["chapo"],
     "authUrl": "https://moujeek.ru/vacs/api",
     "messages": [
-        "Спасибо за установку скрипта!"
+        {
+            "title": "Добро пожаловать!",
+            "text": "Спасибо за установку скрипта!"
+        }
     ]
 }
