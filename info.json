@@ -1,0 +1,27 @@
+{
+    "update": {
+        "last_version": "5.0.0 alpha", 
+        "url": "https://raw.githubusercontent.com/vAcs-reborn/info/refs/heads/main/vAcs-reborn.lua",
+        "changelog": [
+            {
+                "version": "5.0.0 alpha",
+                "changes": ["Release!"]
+            }
+        ]
+    },
+    "library": {
+        "enabled": false,
+        "host": "https://moujeek.ru/vacs/api/library",
+        "message": "Библиотека пользовательских предметов еще в разработке."
+    },
+    "sync": {
+        "enabled": false,
+        "host": "https://moujeek.ru/vacs/api/sync",
+        "message": "Синхронизация еще в разработке."
+    },
+    "developer": ["chapo"],
+    "authUrl": "https://moujeek.ru/vacs/api",
+    "messages": [
+        "Спасибо за установку скрипта!"
+    ]
+}
