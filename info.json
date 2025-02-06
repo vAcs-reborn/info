@@ -9,6 +9,13 @@
             }
         ]
     },
+    "links": [
+        {"text": "Разработчик в Telegram", "url": "https://t.me/moujeek"},
+        {"text": "Канал разработчика в Telegram", "url": "https://t.me/chaposcripts" },
+        {"text": "YouTube канал", "url": "https://youtube.com/@ya_chapo"},
+        {"text": "BlastHack", "url": "https://www.blast.hk/members/112329/"},
+        {"text": "GitHub", "url": "https://github.com/chaposcripts"}
+    ],
     "library": {
         "enabled": false,
         "host": "https://moujeek.ru/vacs/api/library",
