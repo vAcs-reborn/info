@@ -18,13 +18,13 @@
     ],
     "library": {
         "enabled": false,
-        "host": "https://moujeek.ru/vacs/api/library",
+        "host": "http://moujeek.ru/vacs/api/library",
         "message": "Библиотека пользовательских предметов еще в разработке."
     },
     "sync": {
-        "enabled": false,
-        "host": "https://moujeek.ru/vacs/api/sync",
-        "message": "Синхронизация еще в разработке."
+        "enabled": true,
+        "host": "http://127.0.0.1:8173/send",
+        "message": "develompent"
     },
     "developer": ["chapo"],
     "authUrl": "https://moujeek.ru/vacs/api",
