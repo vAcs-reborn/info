@@ -23,7 +23,7 @@
     },
     "sync": {
         "enabled": true,
-        "host": "http://127.0.0.1:8173/send",
+        "host": "http://127.0.0.1:8173/",
         "message": "develompent"
     },
     "developer": ["chapo"],
