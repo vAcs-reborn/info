@@ -5,6 +5,7 @@
         "changelog": [
             {
                 "version": "5.0.0 alpha",
+                "hash": "PLACEHOLDER",
                 "changes": ["Release!"]
             }
         ]
