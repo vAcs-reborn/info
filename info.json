@@ -23,9 +23,9 @@
         "message": "Библиотека пользовательских предметов еще в разработке."
     },
     "sync": {
-        "enabled": true,
+        "enabled": false,
         "host": "http://127.0.0.1:8173/",
-        "message": "develompent"
+        "message": "Синхронизация еще в разработке."
     },
     "developer": ["chapo"],
     "authUrl": "https://moujeek.ru/vacs/api",
