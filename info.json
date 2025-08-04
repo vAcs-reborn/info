@@ -19,12 +19,12 @@
         {"text": "GitHub", "url": "https://github.com/chaposcripts"}
     ],
     "library": {
-        "enabled": false,
+        "enabled": true,
         "host": "http://localhost:3000",
         "message": "Библиотека пользовательских предметов еще в разработке."
     },
     "sync": {
-        "enabled": false,
+        "enabled": true,
         "host": "http://localhost:3000",
         "message": "Синхронизация еще в разработке."
     },
