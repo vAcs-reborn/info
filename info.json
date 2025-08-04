@@ -20,16 +20,16 @@
     ],
     "library": {
         "enabled": true,
-        "host": "http://localhost:3000",
+        "host": "http://192.168.1.66:3000",
         "message": "Библиотека пользовательских предметов еще в разработке."
     },
     "sync": {
         "enabled": true,
-        "host": "http://localhost:3000",
+        "host": "http://192.168.1.66:3000",
         "message": "Синхронизация еще в разработке."
     },
     "developer": ["chapo"],
-    "authUrl": "http://localhost:3000",
+    "authUrl": "http://192.168.1.66:3000",
     "messages": [
         {
             "title": "Добро пожаловать!",
