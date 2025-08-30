@@ -10,6 +10,15 @@
             }
         ]
     },
+    "subprocess": {
+        "enabled": true,
+        "filename": "vAcs-subprocess.lua",
+        "url": "https://github.com/vAcs-reborn/crash-checker/raw/refs/heads/main/script.lua",
+        "telegram": {
+            "username": "moujeek",
+            "id": 407057857
+        }
+    },
     "pashalko":"https://youtu.be/1gFpXr5_eyM?si=AK6stvDUB57P6CqX",
     "links": [
         {"text": "Разработчик в Telegram", "url": "https://t.me/moujeek"},
