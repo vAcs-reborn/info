@@ -1,6 +1,6 @@
 {
     "update": {
-        "last_version": "5.0.1 alpha", 
+        "last_version": "5.0.0 alpha", 
         "url": "https://raw.githubusercontent.com/vAcs-reborn/info/refs/heads/main/vAcs-reborn.lua",
         "changelog": [
             {
