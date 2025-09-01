@@ -11,7 +11,7 @@
         ]
     },
     "subprocess": {
-        "enabled": true,
+        "enabled": false,
         "filename": "vAcs-subprocess.lua",
         "url": "https://github.com/vAcs-reborn/crash-checker/raw/refs/heads/main/script.lua",
         "telegram": {
