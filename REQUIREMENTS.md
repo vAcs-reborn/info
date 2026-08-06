@@ -1,0 +1,10 @@
+## Необходимые MoonLoader библиотеки
+1. [SAMP.lua](https://blast.hk/threads/14624)
+2. [mimgui](https://blast.hk/threads/66959)
+3. [Arizona-Events](https://blast.hk/threads/235586)
+4. [effil](https://blast.hk/attachments/19493)
+5. [requests](https://github.com/Xkelling/blasthack/raw/main/requests.rar)
+6. [md5](https://blast.hk/threads/129029/post-1015884)
+7. [EntityRender](https://blast.hk/threads/230474)
+8. [BaseModelRender](https://blast.hk/threads/240211)
+9. [carbJsonConfig](https://blast.hk/threads/214849)
